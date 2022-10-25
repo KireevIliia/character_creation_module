@@ -1,3 +1,6 @@
+# Another variation of main.py
+main_copy.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
